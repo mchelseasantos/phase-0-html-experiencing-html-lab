@@ -1,0 +1,5 @@
+"apples"
+"bananas"
+"strawberries blueberries raspberries"
+"cantalope"
+"mangoes"
